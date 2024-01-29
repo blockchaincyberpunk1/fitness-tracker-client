@@ -1,0 +1,9 @@
+.add-activity-form .input-field {
+  border-color: #37b5b6; /* Use one of your palette colors for border */
+}
+
+.add-activity-form .submit-button {
+  background-color: #492e87; /* Use a palette color for button background */
+  border-color: #492e87;
+  color: white; /* Contrast text color */
+}

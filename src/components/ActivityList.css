@@ -1,0 +1,10 @@
+.activity-item {
+  background-color: #f2f597; /* Light background color */
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.activity-item h3 {
+  color: #0a1d56; /* Dark text color for contrast */
+}
