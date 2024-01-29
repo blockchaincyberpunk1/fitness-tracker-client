@@ -1,16 +1,16 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/blockchaincyberpunk1/fitness-tracker-client)](https://github.com/blockchaincyberpunk1/fitness-tracker-client/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/blockchaincyberpunk1/fitness-tracker-client)](https://github.com/blockchaincyberpunk1/fitness-tracker-client/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/blockchaincyberpunk1/fitness-tracker-client)](https://github.com/blockchaincyberpunk1/fitness-tracker-client/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/blockchaincyberpunk1/fitness-tracker-client)](https://github.com/blockchaincyberpunk1/fitness-tracker-client/pulls)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/your_username_/Project-Name">
+  <a href="https://github.com/blockchaincyberpunk1/fitness-tracker-client">
     <img src="./src/images/logo2.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -19,18 +19,18 @@
   <p align="center">
     A sleek and responsive front-end for a fitness tracking application.
     <br />
-    <a href="https://github.com/your_username_/Project-Name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/blockchaincyberpunk1/fitness-tracker-client"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/your_username_/Project-Name">View Demo</a>
+    <a href="https://github.com/blockchaincyberpunk1/fitness-tracker-client">View Demo</a>
     ·
-    <a href="https://github.com/your_username_/Project-Name/issues">Report Bug</a>
+    <a href="https://github.com/blockchaincyberpunk1/fitness-tracker-client/issues">Report Bug</a>
     ·
-    <a href="https://github.com/your_username_/Project-Name/issues">Request Feature</a>
+    <a href="https://github.com/blockchaincyberpunk1/fitness-tracker-client/issues">Request Feature</a>
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS --> 
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -62,17 +62,10 @@
 The Fitness Tracker Client is a React-based front-end application designed to provide users with an intuitive interface for tracking their fitness activities. This project leverages the power of React and Ant Design to create an engaging and user-friendly experience.
 
 
-
-
-
-
 ### Built With
 
 * [React.js](https://reactjs.org/)
 * [Ant Design](https://ant.design/)
-
-
-
 
 
 <!-- GETTING STARTED -->
@@ -91,15 +84,12 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/blockchaincyberpunk1/fitness-tracker-client.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-
-
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -108,9 +98,6 @@ To get a local copy up and running follow these simple steps.
 Use this project to track fitness activities, monitor progress, and maintain a healthy lifestyle.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
 
 
 <!-- ROADMAP -->
@@ -132,9 +119,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/issues) for a full list of proposed features (and known issues).
 
 
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -150,16 +134,10 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 
-
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
-
 
 
 <!-- CONTACT -->
@@ -167,7 +145,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Sheneeza Volcov - [@your_twitter](https://twitter.com/your_username) - thepolyglot8@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/blockchaincyberpunk1/fitness-tracker-client](https://github.com/blockchaincyberpunk1/fitness-tracker-client)
 
 
 <!-- ACKNOWLEDGMENTS -->
